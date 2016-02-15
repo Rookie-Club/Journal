@@ -14,6 +14,8 @@ envoyez nous en message [formation@ut7.fr](mailto:formation@ut7.fr).
 
 ## Les derniers jours
 
+* [[Lundi 15 février 2016|20160215-jour6]]
+* [[Mercredi 3 février 2016|20160203-jour5]]
 * [[Mardi 2 février 2016|20160202-jour4]]
 * [[Lundi 1 février 2016|20160201-jour3]]
 * [[Mardi 19 janvier 2016|20160119-jour2]]
