@@ -1,16 +1,15 @@
-Bienvenue sur le journal de la formation en alterancen « Patouilles de p3l ».
+Bienvenue sur le journal du Rookie club. C'est une formation en alternance pour accompagner les développeurs junior dans leurs premiers pas en entreprise.
 
-Cette formation se déroule en alternance, ce journal ne concerne que les moments
-de cours.
+Cette formation se déroule en alternance, ce journal ne concerne que les moments de cours.
 
-La partie cours est réalisé par [ut7](http://ut7.fr).
+Les cours sont assurés par [ut7](http://ut7.fr).
 
 Si vous voulez :
 - particper en tant qu'apprenant
 - recruter un/e développeur/se formé au bonne pratique
 - juste en savoir plus
 
-envoyez nous en message [formation@ut7.fr](mailto:formation@ut7.fr).
+envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
 ## Les derniers jours
 
