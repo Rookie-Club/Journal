@@ -13,6 +13,7 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
 ## Les derniers jours
 
+* [[Vendredi 8 avril 2016|20160408-jour15]]
 * [[Mercredi 23 mars 2016|20160323-jour14]]
 * [[Mardi 22 mars 2016|20160322-jour13]]
 * [[Lundi 21 mars 2016|20160321-jour12]]
