@@ -5,7 +5,7 @@ Cette formation se déroule en alternance, ce journal ne concerne que les moment
 Les cours sont assurés par [ut7](http://ut7.fr).
 
 Si vous voulez :
-- particper en tant qu'apprenant
+- participer en tant qu'apprenant/e
 - recruter un/e développeur/se formé au bonne pratique
 - juste en savoir plus
 
@@ -13,6 +13,7 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
 ## Les derniers jours
 
+* [[Vendredi 22 avril 2016|20160422-jour17]]
 * [[Vendredi 15 avril 2016|20160415-jour16]]
 * [[Vendredi 8 avril 2016|20160408-jour15]]
 * [[Mercredi 23 mars 2016|20160323-jour14]]
