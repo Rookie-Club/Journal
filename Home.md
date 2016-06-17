@@ -13,6 +13,7 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
 ## Les derniers jours
 
+* [[Vendredi 17 juin 2016|20160617-3-rookies]]
 * [[Vendredi 10 juin 2016|20160610-jour23]]
 * [[Vendredi 3 juin 2016|20160603-jour22]]
 * [[Vendredi 27 mai 2016|20160527-jour21]]
