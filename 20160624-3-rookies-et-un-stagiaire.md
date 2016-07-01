@@ -55,7 +55,7 @@ Et après ?
 - Autre constat : le code était presque fonctionnel (ça tournais, mais pas comme il faut).
 - C'est un exercice qu'on peut faire chez nous --Yohann.
 - Peut-être qu'on pourra se donner des devoirs et les relires (plutôt que de les refaires en live) le vendredi matin suivant ?
-- Sans donner de devoir, on pourrais commencer la matinée par lire du code : celui produit qui pose problème, l'exercice réalisé en semaine, ...
+- **Sans donner de devoir, on pourrais commencer la matinée par lire du code : celui produit qui pose problème, l'exercice réalisé en semaine, ...**
 - Le click-droit sur une page web c'est chiant --Simon.
 - On a toujours pas de démineur qui fonctionne bien (pas de détection de fin de partie).
 - Mais on a un cheatcode.
