@@ -11,6 +11,16 @@ Si vous voulez :
 
 envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
+## Les prérequis
+
+- Un ordinateur portable.
+- Un terminal unix (pour windows, installer [cygwin](https://www.cygwin.com/) par exemple).
+- [Tmux](https://tmux.github.io/) installé dessus.
+- Une clef [SSH](http://fr.wikipedia.org/wiki/OpenSSH) publique.
+- [Git](https://git-scm.com/) installé.
+- S'assurer que [Vi(m)](http://www.vim.org/) est installé sur la machine
+- Installer [Docker](https://www.docker.com/)
+
 ## Les derniers jours
 
 * [[Vendredi 29 juillet 2016|20160729-jour29]]
