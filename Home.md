@@ -18,8 +18,9 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 - [Tmux](https://tmux.github.io/) installé dessus.
 - Une clef [SSH](http://fr.wikipedia.org/wiki/OpenSSH) publique.
 - [Git](https://git-scm.com/) installé.
-- S'assurer que [Vi(m)](http://www.vim.org/) est installé sur la machine
-- Installer [Docker](https://www.docker.com/)
+- S'assurer que [Vi(m)](http://www.vim.org/) est installé sur la machine.
+- Installer [Docker](https://www.docker.com/).
+- Un compte [github](https://github.com), en attendant autre chose.
 
 ## Les derniers jours
 
@@ -35,6 +36,7 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 * [[Vendredi 27 mai 2016|20160527-jour21]]
 * [[Vendredi 20 mai 2016|20160520-jour20]]
 * [[Vendredi 13 mai 2016|20160513-jour19]]
+* Vendredi 29 avril 2016 jour18 .. _404_
 * [[Vendredi 22 avril 2016|20160422-jour17]]
 * [[Vendredi 15 avril 2016|20160415-jour16]]
 * [[Vendredi 8 avril 2016|20160408-jour15]]
