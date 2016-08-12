@@ -24,6 +24,7 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
 ## Les derniers jours
 
+* [[Vendredi 12 août 2016|20160812-jour31]]
 * [[Vendredi 5 août 2016|20160805-jour30]]
 * [[Vendredi 29 juillet 2016|20160729-jour29]]
 * [[Vendredi 22 juillet 2016|20160722-jour28]]
@@ -65,4 +66,5 @@ command="/usr/bin/tmux -L rookieclub attach",no-port-forwarding,no-X11-forwardin
 command="/usr/bin/tmux -L rookieclub attach",no-port-forwarding,no-X11-forwarding,no-agent-forwarding ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRQ+Hrv/Y/E9z7d73n11h8IuBuKSrMFT6UEgJOppntMY1F02qai82PPt+4Mlj8jA6KH5lT8IhKC+IPmstG2EVraHBP0o5lzzlMV+B1+GjUKcRgQHe/bea7fHwG2o9t2HMet6Y2golilAane5QKOZG9nLgkGHX8NYbVfynTnMKupZXuiGZb+SiS+FzQZkebll+Ll0Mr2YKq2Uhw+t6sfCCe7khSLgTtSNShTBs/M++hthUyR3fNmauRKLwwolu7j4weLLWvVG2x/17iETmaqj3J3a5rTwblnziqZ6TjWtotsG3wRNeDftSbPGBhxCM3qg9mMYET4wJ+4YnOadhEjXyx semia.ladjal@gmail.com
 command="/usr/bin/tmux -L rookieclub attach",no-port-forwarding,no-X11-forwarding,no-agent-forwarding ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDWA7UHaLHR+JjDBFz3UmxaoSc+BUQu98wIIbUXCmbNrniO+WAtdQcXPuSjy/jb7/X08az0pwGyoGOsFXemiiDrtCmc5SE/2ArUZDM0FxSUGXt6OxX2R5sod4Gt8wtuHrPp1oBysI3tjuvLucvIkYZUsfzH/rUNvLTlNvrhv0TeAHg0pijbGOnM9POS7HMJzzJYPKyWakKlhpfycZL/E2z3zpGA/gR2uOolQGV61d9/kEHJNkTaHgianTV+qkdmdmgu25eH54aK7Wa7pWwfrd/yQo3Afu9D6mrlPytcTe7Iss4WIlv+gHJnhog/mX3dl20l6MH0C/YuBdib27JjWPp yannick@ut7.fr
 command="/usr/bin/tmux -L rookieclub attach",no-port-forwarding,no-X11-forwarding,no-agent-forwarding ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDWGiEKhDQ5QFxyJW2eLLT2s5bY9nlXabtfY2pYocZT7cwmHws2pHBJh94HEhQ+ZSCBYb5KzgbMXDwL/IA1kHPXSt/+gT8LCQeoIOLWTw+QHlu2Ee7EL7estXv3kRlU5YWxLXlogkBXp8bE+z/Eukl7ivncY+KWakM3OHb4P4sgpaFdbuEgRnbT1vq0jLHxas7+PCrBZeA36UJgbaWA7PegQQqOj0IIBaxJzrSdbbqwxpC3W+w0VYZlaH2xG2wVPgMEczvNkep4D1LU3ziof9/OwBoP3aw4adX/irecUZweYoh/OS67aGxR2DFOIOURyFokfCPrDeToH/dJ4yjOKVDv vanessa.chaddouk@gmail.com
+command="/usr/bin/tmux -L rookieclub attach",no-port-forwarding,no-X11-forwarding,no-agent-forwarding ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCm9w9AEH9A4HrxTkOPcwR9IvuCw7zORtzCgTlkr3f/ILIJdgJSW3NRLjPvpm9mKVM/B4COd2yaldvnLvrlkY24ybqmAlSherVJD84sF6fkr/HJr4V8zYshzqnhZNM4g5ctO0oR27wlMYJAJMdLB+/3RekBKOoFhYGnjUbxZyk2UpUFqhGQWqQ3nTldfNslnVKkSl+M0ijC8s9eP0yrQDIS6W4NGTJWaAqxU5wWlcPyRSka27iekYa+MHMJuN2WrjznUj8DGFyymXfBZRyHkDosqCjeOIo6OCMNQltOp4xVZeqdnchIXGMXBomSTntz4Q+KINNY+5Uv5CY3MmUR23fx almeida.melanie@gmail.com
 </pre>
