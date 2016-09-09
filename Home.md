@@ -24,6 +24,7 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
 ## Les derniers jours
 
+* [[Vendredi 9 septembre 2016|20160909-jour35]]
 * [[Vendredi 2 septembre 2016|20160902-jour34]]
 * [[Vendredi 26 août 2016|20160826-jour33]]
 * [[Vendredi 19 août 2016|20160819-jour32]]
