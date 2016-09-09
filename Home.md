@@ -9,8 +9,6 @@ Si vous voulez :
 
 envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
-[[Les sessions]]
-
 ## Les prerequis
 
 - Un ordinateur portable.
