@@ -32,4 +32,4 @@
 * [[Mardi 2 février 2016|20160202-jour4]]
 * [[Lundi 1 février 2016|20160201-jour3]]
 * [[Mardi 19 janvier 2016|20160119-jour2]]
-* [[Lundi 18 janvier 2016|20160118-jour1]]
+* [[Lundi 18 janvier 2016|18-janvier-2016]]
