@@ -1,7 +1,5 @@
 Bienvenue sur le journal du Rookie club. C'est une formation en alternance pour accompagner les développeurs junior dans leurs premiers pas en entreprise.
 
-Cette formation se déroule en alternance, ce journal ne concerne que les moments de cours.
-
 Les cours sont assurés par [ut7](http://ut7.fr).
 
 Si vous voulez :
@@ -11,7 +9,9 @@ Si vous voulez :
 
 envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
-## Les prérequis
+[[La prochaine seance]]
+
+## Les prerequis
 
 - Un ordinateur portable.
 - Un terminal unix (pour windows, installer [cygwin](https://www.cygwin.com/) par exemple).
