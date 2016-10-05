@@ -11,19 +11,6 @@ envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
 Le contenu de ce wiki est créé par les participants du Gymclub. Il est distribué sous la licence [Creative Commons, Attribution - Pas d'utilisation commerciale - Partage dans les mêmes conditions, v3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/fr/).
 
-[[Les sessions]]
-
-## Les prerequis
-
-- Un ordinateur portable.
-- Un terminal unix (pour windows, installer [cygwin](https://www.cygwin.com/) par exemple).
-- [Tmux](https://tmux.github.io/) installé dessus.
-- Une clef [SSH](http://fr.wikipedia.org/wiki/OpenSSH) publique.
-- [Git](https://git-scm.com/) installé.
-- S'assurer que [Vi(m)](http://www.vim.org/) est installé sur la machine.
-- Installer [Docker](https://www.docker.com/).
-- Un compte [github](https://github.com), en attendant autre chose.
-
 ## Les trucs pour partager une session tmux
 
 <pre>
