@@ -1,2 +1,2 @@
-[[Les sessions]]
-[[Les prérequis]]
+- [[Les sessions]]
+- [[Les prérequis]]
