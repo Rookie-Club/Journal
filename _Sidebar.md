@@ -2,4 +2,4 @@
 - [[Les prérequis]]
 - [[Tmux]]
 
-[AllPages()]
+AllPages()
