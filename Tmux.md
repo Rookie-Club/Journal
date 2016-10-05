@@ -1,4 +1,4 @@
-# Les trucs pour partager une session tmux
+Les trucs pour partager une session tmux
 
 <pre>
 command="/usr/bin/tmux -L rookieclub attach",no-port-forwarding,no-X11-forwarding,no-agent-forwarding ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDa8kidBDEzDlGuRWCQ6BKV5/8qhayXqqrVaaXnt4sxM7R3+C6qSsfUpzktGrpGdUDdKKOmLGLgwcekhSsguNva1PHUAEyY07R1Qbbb8JAkxjL2mJfJh1apJz6oL/0i8Wb933Fdxe5s0lceh+VDZnGX7idaADLlsTlLdFnXlC/4s7WE2pegkD5rtPfNGMvrSp6ofIHky2TddbYQWLoXU94QkSxRGYok6epl9VGJbGFWNg3NWSPbpOx8MnJv7WX7uOzfpkpT0p+Y63KnSQOv/ES0qwAzEubIwQs8EU44itzWkWeW1SRrJkPKY/tS4rVtNofVXTFZoBToKGqDU3AlIGMd sims38930@gmail.com

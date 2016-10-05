@@ -1,5 +1,3 @@
-# Les prerequis
-
 - Un ordinateur portable.
 - Un terminal unix (pour windows, installer [cygwin](https://www.cygwin.com/) par exemple).
 - [Tmux](https://tmux.github.io/) installé dessus.
