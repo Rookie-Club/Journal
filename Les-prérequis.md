@@ -1,0 +1,10 @@
+# Les prerequis
+
+- Un ordinateur portable.
+- Un terminal unix (pour windows, installer [cygwin](https://www.cygwin.com/) par exemple).
+- [Tmux](https://tmux.github.io/) installé dessus.
+- Une clef [SSH](http://fr.wikipedia.org/wiki/OpenSSH) publique.
+- [Git](https://git-scm.com/) installé.
+- S'assurer que [Vi(m)](http://www.vim.org/) est installé sur la machine.
+- Installer [Docker](https://www.docker.com/).
+- Un compte [github](https://github.com), en attendant autre chose.
