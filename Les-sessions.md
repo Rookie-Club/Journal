@@ -15,9 +15,9 @@
 * [[Vendredi 17 juin 2016|20160617-3-rookies]]
 * [[Vendredi 10 juin 2016|20160610-jour23]]
 * [[Vendredi 3 juin 2016|20160603-jour22]]
-* [[Vendredi 27 mai 2016|20160527-jour21]]
-* [[Vendredi 20 mai 2016|20160520-jour20]]
-* [[Vendredi 13 mai 2016|20160513-jour19]]
+* [[Vendredi 27 mai 2016|27-mai-2016]]
+* [[Vendredi 20 mai 2016|20-mai-2016]]
+* [[Vendredi 13 mai 2016|13-mai-2016]]
 * Vendredi 29 avril 2016 jour18 .. _404_
 * [[Vendredi 22 avril 2016|22-avril-2016]]
 * [[Vendredi 15 avril 2016|15-avril-2016]]
