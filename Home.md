@@ -6,9 +6,6 @@ L'historique des [[sessions|Les-sessions]].
 
 [[Les prérequis]]
 
-La config [[tmux]]
-
-
 Si vous voulez :
 - participer en tant qu'apprenant/e
 - recruter un/e développeur/se formé au bonne pratique
