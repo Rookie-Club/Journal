@@ -4,7 +4,10 @@ Les cours sont assurés par [ut7](http://ut7.fr).
 
 L'historique des [[sessions|Les-sessions]].
 
-[[Les pré-requis]]
+[[Les prérequis]]
+
+La config [[tmux]]
+
 
 Si vous voulez :
 - participer en tant qu'apprenant/e
