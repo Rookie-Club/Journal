@@ -2,7 +2,9 @@ Bienvenue sur le journal du Rookie club. C'est une formation en alternance pour 
 
 Les cours sont assurés par [ut7](http://ut7.fr).
 
-L'historiques des [[sessions|Les-sessions]]
+L'historique des [[sessions|Les-sessions]].
+
+[[Les pré-requis]]
 
 Si vous voulez :
 - participer en tant qu'apprenant/e
