@@ -6,3 +6,4 @@
 - S'assurer que [Vi(m)](http://www.vim.org/) est installé sur la machine.
 - Installer [Docker](https://www.docker.com/).
 - Un compte [github](https://github.com), en attendant autre chose.
+- Configurer le ssh pour se brancher à une session [[tmux]]
