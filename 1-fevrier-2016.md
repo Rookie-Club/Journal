@@ -1,5 +1,4 @@
-
-Exercice de lecture de code : un morpion en python. Beaucoup de bugs dans le
+Exercice de lecture de code : un morpion en [[Python]]. Beaucoup de bugs dans le
 bout de code. Nous essayons de lire et comprendre le déroulé du programme, tout
 en l'exécutant pour vérifier et corriger en même temps.
 
@@ -18,16 +17,16 @@ Certains morceaux de code sont difficilement compréhensibles, du coup nous avon
 exécuté le code pour vérifier le fonctionnement. Ce faisant nous avons découvert
 des bugs, et sommes partis dans leur correction.
 
-Ensuite nous avons fait du JavaScript, un morpion en JavaScript, au format
-Randori (5 minutes chacun, juste Hafid et [[Simon]]).
+Ensuite nous avons fait du JavaScript, un morpion en [[JavaScript]], au format
+Randori (5 minutes chacun, juste [[Hafid]] et [[Simon]]).
 
-[[Simon]] trouve que le JavaScript c'est pas beau. Nous avons affiché la grille,
+[[Simon]] trouve que le [[JavaScript]] c'est pas beau. Nous avons affiché la grille,
 cliqué dessus, affiché les X et les O, fait un bouton reset pour remettre le jeu
 à zéro. Il ne manque que la détection de fin de partie.
 
 [Le code source](https://github.com/ut7/rookie-club/commit/e478b4f84f0eb47649b33365dc585704dda7baac)
 
-L'après midi nous avons refait un jeu de morpion en Python avec PyGame.
+L'après midi nous avons refait un jeu de morpion en [[Python]] avec PyGame.
 
 Nous avons : 
 
@@ -41,7 +40,7 @@ Nous avons :
   d'une cellule. Puis nous fait la même chose pour calculer un tableau de
   coordonnées pour le placement des 9 cellules.
 
-Yannick à pris le clavier pour faire un refactoring pour passer des fonctions à
+[[Yannick]] à pris le clavier pour faire un refactoring pour passer des fonctions à
 un objet. Ensuite il s'est emballé pour utiliser une comprehension de liste pour
 la génération du tableau de coordonnées.
 
