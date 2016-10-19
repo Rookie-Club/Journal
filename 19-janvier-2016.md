@@ -3,9 +3,9 @@ On refait Hello world en dehors de exercism...
 - Revu les imports (différence entre `import module`, `from module import
   function`)
 - Joué avec la variable `__name__`
-- Différence entre le C et le Python (définition des variables)
-- Refait du VIM
-- Git basic
+- Différence entre le [[C]] et le [[Python]] (définition des variables)
+- Refait du [[Vim]]
+- [[Git]] basic
 
 On a aussi discuter des langages et des éléments de lecture pour différencier
 les langages (compilateur, paradigme, type)
@@ -49,5 +49,3 @@ Simon veux finir le morpion, ça veut dire :
 - afficher le vainqueur (joueur ou ordi)
 - faire un bouton reset pour recommencer
 - démarrage aléatoire (ordi ou joueur)
-
-
