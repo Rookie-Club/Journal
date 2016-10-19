@@ -6,27 +6,27 @@ matrice pédagogique d'ut7.
 toutes les lignes sont décliné par langage, mais le versionning ? Par outils ?
 => Une matrice par langage.
 
-On va commencé par Python.,. 
+On va commencé par [[Python]].,. 
 
 Debrief de la matinée: 
 
 - Plan de situation des connaissances de départ,
-- Ajout de 3 langages : javascript, processing, bash
+- Ajout de 3 langages : [[JavaScript]], [[Processing]], [[Bash]]
 - Quel est le point « d'arrivé » ?
 
-- On reprend le cours python sur les fonction (de code Academy)
+- On reprend le cours [[Python]] sur les fonction (de code Academy)
 - On apprend des trucs sur les imports de module/fonction
 - On pourrais allez voir le code source du `**` dans python
 
 
 Après avoir revu les objectifs de l'entreprise, nous avons ensuite fait les deux
 premier exercices de exercism. Cela nous à permis d'aborder:
-- le TDD
-- Git
-- Github
-- Python
-- Vim
-- Le terminal
+- [[TDD]]
+- [[Git]]
+- [[Github]]
+- [[Python]]
+- [[Vim]]
+- Le [[Terminal]]
 
 Nous avons partagé les resources : 
 - [exercism.io](http://exercism.io), des exercices de code piloté par les tests.
