@@ -1,5 +1,5 @@
 
-J'ai utilisé le `<CTRL-A>` pour changer les jours de la page [[Home]], Simon me
+J'ai utilisé le `<CTRL-A>` pour changer les jours de la page [[Home]], [[Simon]] me
 rappel que j'aurais pu utiliser le `.` pour répéter la commande \o/.
 
 ## Des trucs ?
@@ -10,12 +10,12 @@ rappel que j'aurais pu utiliser le `.` pour répéter la commande \o/.
 
 ## Ce qu'on pourrait faire ce matin
 
-* Faire une troisième journée de JavaScript ?
+* Faire une troisième journée de [[JavaScript]] ?
 * Refaire le convertisseur Arabe -> Romain.
 
 ## Ce matin
 
-* On fait explore les branches sur Git
+* On fait explore les branches sur [[Git]]
   * `git branch <newbranch>` vs `git checkout -b <newbranch>`
   * `git branch -d <branch-to-delete>`
   * `git branch -m <oldbranch> <newbranch>`
@@ -35,20 +35,20 @@ rappel que j'aurais pu utiliser le `.` pour répéter la commande \o/.
 
 ## Ce qu'ont pourrait faire cette après midi
 
-* Faire un FizzBuzz en Python
-* Faire Romain -> Arabe en Python
+* Faire un FizzBuzz en [[Python]]
+* Faire Romain -> Arabe en [[Python]]
 
 ## Cet après midi,
 
-Simon prend 40 minutes pour faire FizzBuzz tout seul en TDD. Il commente par
+[[Simon]] prend 40 minutes pour faire FizzBuzz tout seul en [[TDD]]. Il commente par
 tout coder sans executer.
 
 À la fin : 
 
 * la barre est vertes avec 7 tests
-* Je n'arrive toujours pas à retenir le `main` en python
-* Du mal à retrouver comment on fait l'héritage en Python
-* J'ai copié/collé ces lignes sur le github
+* Je n'arrive toujours pas à retenir le `main` en [[Python]]
+* Du mal à retrouver comment on fait l'héritage en [[Python]]
+* J'ai copié/collé ces lignes sur le [[Github]]
 * je trouve des similitudes avec ce que nous avons fait ce matin : un
   convertisseur.
 * je vois des duplication dans mon implémentation, je me dit qu'on doit pouvoir
@@ -75,7 +75,7 @@ On reprend en ajoutant une règle : quand un 3 apparait, on met fizz, si c'est 5
 
 ## debrief des 3 jours
 
-* Le fait d'être seul c'est bien, Yannick c'est adapté à mon rythme
+* Le fait d'être seul c'est bien, [[Yannick]] c'est adapté à mon rythme
 * J'ai appris des choses
 * Je n'ai rien revu de ce que je connaissait
 * C'étais bon de passer un moment tout seul sur un exercice
