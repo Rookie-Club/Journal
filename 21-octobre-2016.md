@@ -26,7 +26,8 @@
 
 On regarde ce qu'[[Hafid]] à produit.
 
-- Beaucoup de manipulation [[git]] pour replacer le code qu'Hafid a produit sur la mauvaise branche.
+- Beaucoup de manipulation [[git]] pour replacer le code qu'Hafid a produit sur
+  la mauvaise branche.
 - On re-attache une branche à sa référence sur origin
 - `git reset --hard HEAD^` _peut modifier le code_
 - `git branch --set-upstream=origin/mabranch mabranch`
@@ -40,4 +41,16 @@ On regarde ce qu'[[Hafid]] à produit.
 - Ça fait quoi le `git reset` sans le `HEAD` ? Sans le `^` ?
 - `git reset --opt [cible sur laquelle on veux se repositionner]`
 
+Ensuite, on a corrigé et fait avancer un peu le code et la fourmi
+
+- C'est Yannick qui a beaucoup pris le clavier, du coup, on avancé
+- Il est inutile de charger des fichiers dont nous n'aurons pas besoin (le
+  `binding.js` dans les tests, le `spec/langton_spec.js` dans la page de
+  production `index.html`).
+- En cas de problème c'est une bonne idée de revenir en arrière plutôt que
+  d'ajouter quelque chose.
+- Impression d'avoir des doublons de fonctions entre le fichier `bindings.js`
+  et `spec/langton_spec.js`.
+- Cette impression est juste, mais c'est normal de tester ce que l'on cherche à
+  mettre en place.
 
