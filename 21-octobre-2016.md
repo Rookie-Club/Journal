@@ -3,6 +3,7 @@
 - [[Hafid]]
 - [[Yannick]]
 - [[Simon]]
+- [[Yohann]]
 
 
 ## Depuis la dernière fois
@@ -53,4 +54,34 @@ Ensuite, on a corrigé et fait avancer un peu le code et la fourmi
   et `spec/langton_spec.js`.
 - Cette impression est juste, mais c'est normal de tester ce que l'on cherche à
   mettre en place.
+
+
+## Cette après midi
+
+On va essayer de faire un [Kata PokerHands]
+
+- Ça faisait longtemps qu'on avait pas fait de [[Python]]
+- «J'ai comme l'impression que je préfère le Python» --Simon
+- «On est bien parti pour le terminer» --Hafid
+
+Après 20 minutes de plus
+
+- On a des soucis pour définir le chemin à suivre, le plan.
+- On apprend à identifier les problèmes.
+- Yannick nous montre une décomposition du problème avec une identification des
+  objets.
+- On parle de la relation entre les objets et de l'échelle de ces relations.
+- Rappel que les tests sont écrit dans une classe, et que la classe permet
+  d'intéragir avec d'autres objets.
+
+Et après 20 minutes de plus encore, et une fin de journée.
+
+- «Pour finir, il va falloir jouer les prolongations» --Hafid.
+- Fin de journée, tout le monde est fatigué.
+- Quand on décompose un problème, c'est important de savoir éliminer les choses inutiles.
+- Pas la peine de mettre les mains sur le clavier si on ne sait pas ce qu'on veut faire.
+- Il y a une différence entre réfléchir à la solution et décomposer le problème.
+- La syntaxe objet commençant à rentrer, on aborde du coup des soucis de conception.
+- C'est important de trouver un prochain pas suffissament simple pour pouvoir le faire sans encombre.
+- C'est une des plus grande difficultés en programmation.
 
