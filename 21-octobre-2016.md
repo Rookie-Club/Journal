@@ -25,7 +25,7 @@
 
 ## Ce matin
 
-On regarde ce qu'[[Hafid]] à produit.
+On regarde ce que [[Hafid]] à produit.
 
 - Beaucoup de manipulation [[git]] pour replacer le code qu'Hafid a produit sur
   la mauvaise branche.
