@@ -6,8 +6,8 @@
 
 ## Depuis la dernière fois
 
-- Simon a modifier le bowling python de la dernière fois pour essayer de faire
-  complétement en fonctionnel.
+- Simon a modifier le bowling [[Python]] de la dernière fois pour essayer de
+  faire complétement en fonctionnel.
 - Simon a aussi tenter de faire un jeu de [[Nim]] en fonctionnel, mais il est
   rester coincé sur l'aspect conception : «Comment j'écris un premier test ?».
 - Yohann a fait encore un peu de [[HTML]]/[[CSS]] et un peu de [[JavaScript]]
@@ -16,14 +16,14 @@
   mission, mais comment le faire en [[TDD]] ? Il a quand même avancé: connexion
   à la base de données, execution de requête SQL, export en CSV.
 
-## Ce matin
-
-On pourrait :
+## Les sujets possibles
 
 - Regarder comment modifier le  bowling javascript de la dernière fois pour
   enlever les variables et la boucle.
 - Faire un jeu de Nim en Python fonctionnel.
 - Se pencher sur le code Python de Yohann.
+
+## Ce matin
 
 On a regarder le code de Yohann.
 
@@ -43,5 +43,43 @@ On a regarder le code de Yohann.
 - Attention aussi aux dépendances externes (dans le code, ou dans le contexte
   du projet), ici, la base de données qui est sous la responsabilité d'une
   personne pas facile d'accès.
-- On a raté l'utilisation de [[Tmux]], Yohann aurait pu ouvrir une session pour qu'on puisse coder avec lui.
+- On a raté l'utilisation de [[Tmux]], Yohann aurait pu ouvrir une session pour
+  qu'on puisse coder avec lui.
 - Yannick est content de découvrir que Yohann code avec Vim dans la console.
+
+## Cette après midi
+
+Yannick a tenu le clavier pour revoir le kata bowling en JavaScript fonctionnel
+
+D'abord on a repris le code de la semaine d'avant pour enlever la boucle et les
+variables. Puis on a repris le code source (en gardant les tests) pour le
+refaire avec une autre approche.
+
+- «Je ne suis pas sur que tenir quand je tiens le clavier, ça vous apprend des
+  trucs» --Yannick.
+- On a joué avec `[1, 2, 3].map(function (a) { return a * 2; });`.
+- On a joué avec `[1, 2, 3].reduce(function (a, b) { return a * b; });`.
+- Révision du `[1, 2].push(3);`.
+- C'est intéressant de se donner des contraintes (ici respecter le paradigme
+  fonctionnel).
+- Refaire l'exercice avec une autre approche n'aide pas forcement à bien
+  comprendre comment on aborde ce genre de problème (en fonctionnel).
+  - Est-ce que c'est parce que c'est Yannick qui avait le clavier ?
+  - Est-ce que c'est parce que c'est en JavaScript ?
+- Il aurait peut-être été intéressant de refaire les tests aussi.
+- C'est bien de s'éterniser sur un problème, réfléchir un peu plus loin que
+  d'habitude genre «comment on purrait faire autrement».
+- Ça fait du bien de voir que Yannick fait les même erreurs que nous.
+
+On essaie de démarrer un jeu de nim en python, avec respectant le paradigme
+fonctionnel
+
+- On fait une interface graphique pour découvrir l'API dont nous avons besoin.
+- On retrouve la problématique de séparer les choses à tester, et celle qui
+  font parti du décor.
+
+
+Est-ce que le coté «journal de bord» ne devrait pas être dans les commits,
+attaché au code produit ? Le wiki pourrait servir à récolter nos découvertes
+(voir des liens sur des exemples).
+
