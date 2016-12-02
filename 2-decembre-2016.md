@@ -14,4 +14,5 @@
 
 ## Ce matin, ou ce qu'il en reste
 
+- Quand les élèves ne codent pas entre deux sessions, c'est plus laborieux le vendredi... Difficulté à se mettre en route.
 
