@@ -1,0 +1,17 @@
+## Participants
+
+- [[Hafid]]
+- [[Yannick]]
+- [[Yohann]]
+
+
+## Depuis la dernière fois
+
+- Hafid a pris du temps pour lui.
+- Yannick a prévu du temps agenda pour travailler pour le rookie club.
+- Yohann a découvert l'existance de [Varnish](https://fr.wikipedia.org/wiki/Varnish).
+- Aucun n'a essayé de faire un exercise proposé la dernière fois.
+
+## Ce matin, ou ce qu'il en reste
+
+
