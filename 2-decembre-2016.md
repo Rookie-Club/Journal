@@ -23,7 +23,6 @@ par Hafid il y a 15 jours.
 Hafid et Yohann avance à leur rythme, on fait un debrief dans le message de
 commit. Nous en avons fait deux.
 
-
 Quand les élèves ne codent pas entre deux sessions, c'est plus laborieux le
 vendredi...
 
