@@ -1,0 +1,33 @@
+## Participants
+
+- Marine
+- Yohann
+- Hafid
+- Simon
+- Yannick
+
+## Quoi de neuf doc ?
+
+- Marine à fait un peu de Rails sur un projet perso.
+- Marine à mis un pied dans le monde des modules en Ruby, c'est quoi la
+  différence de comportement entre un module et une classe ?  - Yohann à fait
+  une journée de Pair Programming chez un nouveau client. Ça permet de
+  découvrir le contexte en étant accompagné. C'était en ReactJS, Git, Java...
+
+## Ce matin ?
+
+On va essayer de reprendre le Kata Tennis commencé avant les congés de noël...
+
+Ça se déroule en mode random. Simon tient beaucoup le clavier, Hafid se met en
+embuscade pour faire passer ses idées. Et le dernier round, c'est un
+refactoring de Yannick.
+
+- On a réussi à reprendre notre code \o/
+- Les tests servent aussi à organiser la pensée, le cheminement pour écrire un programme.
+- Ne pas remanier du code (rappel: les tests font parti du code), c'est louche. Sauf si le programme est parfait (mais ça aussi c'est louche).
+- Le souci récurrent : «comment aborder le problème ?».
+- La décomposition du problème est influencée par le paradigme du langage que l'on utilise.
+- On a effleuré le principe «Tell, don't ask».
+
+
+
