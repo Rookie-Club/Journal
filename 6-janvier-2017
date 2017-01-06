@@ -34,5 +34,12 @@ refactoring de Yannick.
 
 On pourrait continuer le kata tennis (en python et avec des fonctions), on pourrait le refaire en objet (autre langage ?), on pourrait aussi regarder l'application rails de Marine (particulièrement le module ajouté recemment).
 
+On a fait un peu reusinage sur le projet de Marine. Yannick silencieux (ou presque) au clavier, et les rookies qui commentent, questionnent et cherchent des réponses à leurs questions.
 
+- Revision sur les patterns en général, et sur le MVC en particulier.
+- Les `helpers` dans [[Rails]]
+- Les espaces de noms en Ruby `ActiveView::TestCase` et du coup une partie des modules.
+- Les modules/packages/... sont des espaces pour ranger les objets, les fonctions et/ou les fichiers dans des endroits bien distincts.
+- Est-ce le format ou la digestion, les rookies étaient plus participatifs ce matin.
 
+On fait le kata tennis en objet et en python.
