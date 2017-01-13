@@ -45,4 +45,10 @@ On va reprendre le Kata Tennis, et on verra bien, si on a le temps après de
 faire autre chose, ou si on a l'opportunité de faire du React ou de voir le
 principe d'open/close en court de route.
 
+- On a pas eu le temps de faire autre chose,
+- On a même pas eu le temps de faire tout ce qu'on voulais comme reusinage.
+- On a fait une cuisine : Yannick pilote, ensuite une seule rookie reproduit.
+- On a beaucoup discuter de l'usage de vim dans le rookieclub et pour d'autres formations à venir.
+- On parle plus qu'on code. Est-ce que c'est lié aux questions qui deviennent plus compliquées ? Le tableau de question peut peut-être alléger les échanges ?
+- Explorer des nouveaux formats, avec plus d'indépendances ?
 
