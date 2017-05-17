@@ -1,9 +1,9 @@
 ## Participants
 
-- Simon
-- Yohann
-- Hafid (en retard)
-- Yannick
+- [[Simon]]
+- [[Yohann]]
+- [[Hafid]]
+- [[Yannick]]
 
 ## Les dernières nouvelles
 
@@ -12,7 +12,7 @@
   :-(.
 - Simon a fait garderie : atelier KCC(Kids Coding Code) chez Codev. Utilisation
   de bloc de command dans minecraft.
-- Hafid à essayé de refaire le démineur en web.
+- Hafid à essayé de refaire le [démineur](http://codingdojo.org/kata/Minesweeper/) en web.
   - Embarqué dans des triples boucles, il s'est perdu, puis réussi à générer
     une grille.
   - Il a utiliser `element.cloneNode();`.
@@ -51,10 +51,10 @@ On commence par regarder le code d'Hafid.
 
 ## L'après midi
 
-On va faire un convertisseur de nombre vers un affichage LCD. On va le faire en
-mode cuisine à code, avec un rookie pilote : Yohann se propose pour le faire en
-Python. Nous ferrons une pause toutes les 30 minutes pour 10 minutes de
-debrief.
+On va faire un [convertisseur de nombre vers un affichage
+LCD](http://codingdojo.org/kata/NumberToLCD/). On va le faire en mode cuisine à
+code, avec un rookie pilote : Yohann se propose pour le faire en Python. Nous
+ferrons une pause toutes les 30 minutes pour 10 minutes de debrief.
 
 
 1er debrief

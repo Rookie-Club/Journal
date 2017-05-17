@@ -22,7 +22,7 @@ Yohann est en congé
 
 ## Ce matin
 
-Pour explorer la structure d'un serveur, nous allons faire un jeu de nim en
+Pour explorer la structure d'un serveur, nous allons faire un [kata jeu de nim](http://codingdojo.org/kata/Nim/) en
 réseau.
 
 Premier debrief
@@ -66,8 +66,9 @@ Troisième debrief
   l'implémentation.
 - L'ordre d'écriture des tests influence la façon de résoudre un problème.
 - Ce dernier point rappel des choses à Simon.
-- Comme pour le bowling la dernière fois, c'est une bonne idée de réviser ce
-  qu'on veux faire avant de travailler.
+- Comme pour le [kata bowling](http://codingdojo.org/kata/Bowling/) la dernière
+  fois, c'est une bonne idée de réviser ce qu'on veux faire avant de
+  travailler.
 - Faut-il lister toutes les choses à faire avant de les faires ?
 
 

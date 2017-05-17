@@ -6,9 +6,9 @@
 
 ## Depuis la dernière fois
 
-- Simon a modifier le bowling [[Python]] de la dernière fois pour essayer de
+- Simon a modifier le [kata bowling](http://codingdojo.org/kata/Bowling/) [[Python]] de la dernière fois pour essayer de
   faire complétement en fonctionnel.
-- Simon a aussi tenter de faire un jeu de [[Nim]] en fonctionnel, mais il est
+- Simon a aussi tenter de faire un [kata jeu de Nim](http://codingdojo.org/kata/Nim/) en fonctionnel, mais il est
   rester coincé sur l'aspect conception : «Comment j'écris un premier test ?».
 - Yohann a fait encore un peu de [[HTML]]/[[CSS]] et un peu de [[JavaScript]]
   sur [Shopify](https://fr.shopify.com/)
@@ -18,7 +18,7 @@
 
 ## Les sujets possibles
 
-- Regarder comment modifier le  bowling javascript de la dernière fois pour
+- Regarder comment modifier le bowling javascript de la dernière fois pour
   enlever les variables et la boucle.
 - Faire un jeu de Nim en Python fonctionnel.
 - Se pencher sur le code Python de Yohann.
