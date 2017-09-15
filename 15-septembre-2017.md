@@ -8,6 +8,7 @@
 - Sakada
 - Laurent
 - Yannick
+- Hafid
 
 ## Objectifs
 
@@ -18,6 +19,7 @@
 - Sarah : Où me situer pour répondre à des offres (freelance ou pas ? graphisme ou code ou les deux ?).
 - Étienne : Simplifier l'inscription des élèves au lycée.
 - Laurent : monter en compétence sur un langage fonctionnel (avec PureScript) et front.
+- Hafid : savoir faire du machine learning.
 
 ## Pour aujourd'hui
 
@@ -27,4 +29,6 @@
 - Sakada : essayer de faire un truc `back` en nodejs (en essayant de comprendre mieux comment ça marche avec le `front`).
 - Sarah : Finir une animation SVG, résoudre le problème de typographie entre chrome et firefox.
 - Laurent : Optimiser mon outillage pour faire du front (avec PureScript).
+- Hafid : valider mon code python.
+
 
