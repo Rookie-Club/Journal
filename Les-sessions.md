@@ -1,3 +1,4 @@
+* [[Vendredi 2 novembre 2017|2-novembre-2017]]
 * [[Vendredi 27 octobre 2017|27-octobre-2017]]
 * [[Vendredi 20 octobre 2017|20-octobre-2017]]
 * [[Vendredi 29 septembre 2017|29-septembre-2017]]
