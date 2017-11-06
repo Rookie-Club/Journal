@@ -6,6 +6,8 @@
 - Thomas
 - Laurent
 - Paul
+- Sarah
+- Yohann
 
 
 ## Objectifs au RookieClub
