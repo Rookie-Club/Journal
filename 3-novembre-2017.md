@@ -1,3 +1,5 @@
+# Session du 3 novembre 2017
+
 ## Participantes
 
 - Yannick

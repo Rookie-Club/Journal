@@ -1,3 +1,5 @@
+# Session du 3 février 2017
+
 ## Participants
 
 - [[Simon]]

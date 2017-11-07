@@ -1,3 +1,5 @@
+# Session du 27 janvier 2017
+
 ## Participants
 
 - Hafid

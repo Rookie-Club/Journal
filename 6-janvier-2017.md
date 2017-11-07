@@ -1,3 +1,5 @@
+# Session du 6 janvier 2017
+
 ## Participants
 
 - Marine

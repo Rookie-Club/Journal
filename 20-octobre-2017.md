@@ -1,3 +1,5 @@
+# Session du 20 octobre 2017
+
 ## Participantes
 
 - Yannick
