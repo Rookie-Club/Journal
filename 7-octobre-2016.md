@@ -1,3 +1,5 @@
+# Session du 7 octobre 2016
+
 ## Participants
 
 - Yohann

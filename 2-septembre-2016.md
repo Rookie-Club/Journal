@@ -1,3 +1,5 @@
+# Session du 2 septembre 2016
+
 ## Participants
 
 - Mélanie (que le matin)

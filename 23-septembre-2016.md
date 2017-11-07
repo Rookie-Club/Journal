@@ -1,3 +1,5 @@
+# Session du 23 septembre 2016
+
 ## Participants
 
 - Simon

@@ -1,3 +1,5 @@
+# Session du 19 janvier 2016
+
 On refait Hello world en dehors de exercism...
 
 - Revu les imports (différence entre `import module`, `from module import

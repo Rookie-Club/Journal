@@ -1,4 +1,6 @@
-# Jour 1
+# Session du 18 janvier 2016
+
+## Jour 1
 
 Ce matin nous essayons de faire une auto évaluation. Nous la basons sur la
 matrice pédagogique d'ut7.

@@ -1,3 +1,4 @@
+# Session du 17 février 2016
 
 Aujourd'hui on accueil Yohann pour une matinée de test. Yohann utilise pour l'instant Windows, il utilise PyCharm, et fait surtout du Python, et un peu de R.
 

@@ -1,3 +1,5 @@
+# Session du 15 février 2016
+
 ## Depuis la dernière fois
 
 * Tentative de mélange des deux bouts de code de morpion pour faire un jeux complet

@@ -1,3 +1,5 @@
+# Session du 1 février 2016
+
 Exercice de lecture de code : un morpion en [[Python]]. Beaucoup de bugs dans le
 bout de code. Nous essayons de lire et comprendre le déroulé du programme, tout
 en l'exécutant pour vérifier et corriger en même temps.
