@@ -1,0 +1,22 @@
+
+- https://www.git-game.com/
+- http://www.rubykoans.com/
+- http://www.hacker.org/
+- https://www.codingame.com/start
+- https://www.freecodecamp.org/
+- https://www.codewars.com/
+- http://exercism.io/
+- https://vim-adventures.com/
+- https://checkio.org/
+- https://screeps.com/
+- https://codecombat.com/play
+- http://rubyquiz.com/
+- http://play.elevatorsaga.com/
+- https://www.playcodemonkey.com/
+- http://www.cyber-dojo.org/
+- https://projecteuler.net/
+- https://www.udacity.com/
+- https://openclassrooms.com/
+- https://www.khanacademy.org/
+- https://www.codeschool.com/
+- https://www.codecademy.com/
