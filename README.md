@@ -41,7 +41,7 @@ En 2016 :
 - [18 novembre 2016](journaux/20161118.md)
 - [4 novembre 2016](journaux/20161104.md)
 - [28 octobre 2016](journaux/20161028.md)
-- [21 octobre 2016](jorunaux/20161021.md)
+- [21 octobre 2016](journaux/20161021.md)
 - [14 octobre 2016](journaux/20161014.md)
 - [7 octobre 2016](journaux/20161007.md)
 - [30 septembre 2016](journaux/20160930.md)
