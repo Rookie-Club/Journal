@@ -92,7 +92,7 @@ Si vous voulez :
 
 envoyez nous en message [training@ut7.fr](mailto:training@ut7.fr).
 
-Au rookie club vous aurez besoin de [prérequis technique](Les-prérequis.md)
+Au rookie club vous aurez besoin de [prérequis technique](les-prérequis.md)
 
 
 ## Licence
