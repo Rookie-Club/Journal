@@ -8,6 +8,7 @@ La communauté est accueilli chez [/ut7](http://ut7.fr).
 
 En 2017 :
 
+- [24 novembre 2017](journaux/20171124.md)
 - [10 novembre 2017](journaux/20171110.md)
 - [3 novembre 2017](journaux/20171103.md)
 - [27 octobre 2017](journaux/20171027.md)
