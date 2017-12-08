@@ -31,3 +31,6 @@ _les cours peuvent comporter des exercices_
 - http://play.elevatorsaga.com/
 - https://www.playcodemonkey.com/
 - http://asm.sourceforge.net/intro/Assembly-Intro.html
+
+Un jeu qui devient payant
+- http://railsforzombies.org/
