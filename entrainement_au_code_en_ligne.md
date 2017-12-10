@@ -17,6 +17,7 @@ _les cours peuvent comporter des exercices_
 
 ## Non classés
 
+- http://www.spoj.com/
 - https://www.git-game.com/
 - http://www.rubykoans.com/
 - http://www.hacker.org/
