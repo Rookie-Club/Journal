@@ -6,6 +6,10 @@ La communauté est accueilli chez [/ut7](http://ut7.fr).
 
 ## Le journal des sessions.
 
+En 2018 :
+
+- [5 janvier 2018](journaux/20180105.md)
+
 En 2017 :
 
 - [29 décembre 2017](journaux/20171229.md)
